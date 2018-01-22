@@ -1,0 +1,3 @@
+rootProject.name = 'misPastillas'
+
+include ':app'
